@@ -18,6 +18,8 @@ rdk imageName port
 rdkd imageName port
 ```
 
+**current dir is mounted on /src of container**
+
 _EXPOSE port is optional_
 
 ## Installation
