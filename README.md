@@ -6,10 +6,16 @@
 
 <img src="./demo.gif" alt="dotfiles" align="right" width="400">
 
-### Docker Run
+### Docker Run [ bash ]
 
 ```shell
 rdk imageName port
+```
+
+### Docker Run [ sh ]
+
+```shell
+rdksh imageName port
 ```
 
 ### Docker Detached Mode
